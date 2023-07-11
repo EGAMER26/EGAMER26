@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello little Dev 👋
+
+<div>  
+
+  <img src="hello world.gif" width="100vw" height="500px">
+
+</div>
+
+
 
 <!--
 **EGAMER26/EGAMER26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
