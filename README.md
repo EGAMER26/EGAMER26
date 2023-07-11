@@ -2,7 +2,7 @@
 
 <div>  
 
-  <img src="hello world.gif" width="100vw" height="500px">
+  <img src="hello world.gif" width="100%" height="900px">
 
 </div>
 
