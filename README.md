@@ -1,3 +1,4 @@
+<html>
 <div>  
 
   <img src="anime.gif" width="100%" height="400px">
@@ -5,9 +6,39 @@
 </div>
 
 # Hello little Dev 👋
-<div margin="1px solid red" border-radius="70px"></div>
+<div margin="10px solid blue" border-radius="70px"></div>
 
 
+  <head>
+    
+  
+<style>
+  .about {
+    display: flex;
+  }
+    
+</style>
+</head>
+
+<div class="about" display="flex">
+  <div class="about_wrapper">
+  <ul>
+    <li>🌱 I’m currently learning Jest and Python</li>
+    <li>👨‍💻 Some of my projects are available at [My Portfólio](https://p-inky.vercel.app/)</li>
+    <li>💬 Ask me about Javascript, React, Vue, Tailwind CSS, Firebase</li>
+    <li>📫 How to reach me evandrogomes542@gmail.com</li>
+    <li></li>
+  </ul>
+  </div>
+  <div class="about_img">
+  <img src="hello world.gif" width="100%" height="400px">
+    
+  </div>
+  
+</div>
+
+
+</html>
 
 
 <!--
