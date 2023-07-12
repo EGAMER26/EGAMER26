@@ -1,6 +1,6 @@
 <div>  
 
-  <img src="maniaco_codando.gif" width="100%" height="450px">
+  <img src="anime.gif" width="100%" height="400px">
 
 </div>
 
