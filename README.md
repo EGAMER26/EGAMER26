@@ -1,11 +1,19 @@
-<img src="anime.gif" alt="anime" width="100%" height="400">
-
- # Hello little Dev 👋
-  - 🌱 I’m currently learning Jest and Python<br>
-  - 👨‍💻 Some of my projects are available at [My Portfólio](https://p-inky.vercel.app/)<br>
-  - 💬 Ask me about Javascript, React, Vue, Tailwind CSS, Firebase<br>
-  - 📫 How to reach me evandrogomes542@gmail.com 
- <img src="hello world.gif" alt="anime" width="500" height="400">                                                                      
+<div>
+   <img src="anime.gif" alt="anime" width="100%" height="400">
+    <div>
+        <h1>Hello little Dev 👋</h1>
+        <ul margin-top="200px">
+            <li>🌱 I’m currently learning Jest and Python</li>
+            <li>👨‍💻 Some of my projects are available at <a href="https://p-inky.vercel.app/">My Portfólio</a></li>
+            <li>💬 Ask me about Javascript, React, Vue, Tailwind CSS, Firebase</li>
+            <li>📫 How to reach me evandrogomes542@gmail.com</li>
+        </ul>
+    </div>
+    <div style="clear: both;">
+     <img src="collAnime.gif" alt="anime" width="300" height="500"> 
+    </div>
+</div>
+                                                                 
 
 
 <!--
