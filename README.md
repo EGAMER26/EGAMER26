@@ -8,11 +8,11 @@
    <img align="right" src="collAnime.gif" alt="anime" width="300" height="300"> <br>
        <br>
         <ul >
-            <li>🌱 I’m currently learning Jest and Python</li>
+            <li>🌱 I’m currently learning JavaScript and React</li>
               <br>
             <li>👨‍💻 Some of my projects are available at <a href="https://p-inky.vercel.app/">My Portfólio</a></li>
               <br> 
-           <li>💬 Ask me about Javascript, React, Vue, Tailwind CSS, Firebase</li>
+           <li>💬 Ask me about Javascript, React, CSS, PHP</li>
               <br> 
            <li>📫 How to reach me evandrogomes542@gmail.com</li>
         </ul>
