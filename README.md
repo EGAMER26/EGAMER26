@@ -16,71 +16,51 @@
               <br> 
            <li>📫 How to reach me evandrogomes542@gmail.com</li>
         </ul>
-       <div>
-        <br>
-        <br>
-        <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EGAMER26&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-        <img align="center" height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMER26&layout=compact&langs_count=16&theme=great-gatsby"/>
-      </div>
-    </div>
+       
+   </div>
      </div>
    
     
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <br>
+  <div align="center">
+  <img align="left" height="250" alt="coding-time" src="code.gif">
+  <h1>⚡ MY TECHNOLOGIES ⚡</h1>
+  <p>
+    <img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  </p>
+
+
 <br>
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-     <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-   <img align="right" src="loading2.gif" alt="anime" width="24" height="20px">
-  
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+      <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+    <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+      <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+   <img  src="loading2.gif" alt="anime" width="24" height="20px">
+ 
+  </div>
+  <div align="center">
+        <br>
+        <br>
+        <img  align="start"height="180em" src="https://github-readme-stats.vercel.app/api?username=EGAMER26&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+        <img align="start" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMER26&layout=compact&langs_count=16&theme=great-gatsby"/>
+      </div>
    
 ![snake gif](https://github.com/EGAMER26/EGAMER26/blob/output/github-contribution-grid-snake.svg)
 ![Visitor Count](https://profile-counter.glitch.me/{EGAMER26}/count.svg)
+
 
                                                                  
 
