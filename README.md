@@ -5,7 +5,7 @@
     
    <h1 align="center">Hello little Dev 👋</h1>
    <br>
-   <img align="right" src="collAnime.gif" alt="anime" width="300" height="500"> <br>
+   <img align="right" src="collAnime.gif" alt="anime" width="300" height="300"> <br>
        <br>
         <ul >
             <li>🌱 I’m currently learning Jest and Python</li>
@@ -23,7 +23,8 @@
     
   <br>
   <div align="center">
-  <img align="left" height="200" alt="coding-time" src="code.gif">
+  <img align="left" height="250" alt="coding-time" src="code.gif">
+     <br>
   <h1>⚡ MY TECHNOLOGIES ⚡</h1>
   <p>
     <img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -57,9 +58,10 @@
         <img  align="start"height="180em" src="https://github-readme-stats.vercel.app/api?username=EGAMER26&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
         <img align="start" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMER26&layout=compact&langs_count=16&theme=great-gatsby"/>
       </div>
-   
+
+
 ![snake gif](https://github.com/EGAMER26/EGAMER26/blob/output/github-contribution-grid-snake.svg)
-![Visitor Count](https://profile-counter.glitch.me/{EGAMER26}/count.svg)
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/EGAMER26/count.svg" /></p>
 
 
                                                                  
