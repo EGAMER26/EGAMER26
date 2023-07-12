@@ -1,17 +1,11 @@
-<img src="anime.gif" width="100%" height="400px">
+<img src="anime.gif" alt="anime" width="100%" height="400">
 
-# Hello little Dev 👋
- 
-
-
-    * 🌱 I’m currently learning Jest and Python 
-    - [Google](https://www.google.com)
-    * 👨‍💻 Some of my projects are available at [https://p-inky.vercel.app/](https://p-inky.vercel.app/)
-    * 💬 Ask me about Javascript, React, Vue, Tailwind CSS, Firebase
-    * 📫 How to reach me evandrogomes542@gmail.com
-
-    
-  <img src="hello world.gif" width="100%" height="400px">
+ # Hello little Dev 👋
+  - 🌱 I’m currently learning Jest and Python<br>
+  - 👨‍💻 Some of my projects are available at [My Portfólio](https://p-inky.vercel.app/)<br>
+  - 💬 Ask me about Javascript, React, Vue, Tailwind CSS, Firebase<br>
+  - 📫 How to reach me evandrogomes542@gmail.com 
+ <img src="hello world.gif" alt="anime" width="500" height="400">                                                                      
 
 
 <!--
