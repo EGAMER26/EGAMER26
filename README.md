@@ -23,7 +23,7 @@
     
   <br>
   <div align="center">
-  <img align="left" height="250" alt="coding-time" src="code.gif">
+  <img align="left" height="200" alt="coding-time" src="code.gif">
   <h1>⚡ MY TECHNOLOGIES ⚡</h1>
   <p>
     <img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
