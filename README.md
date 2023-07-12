@@ -1,5 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{EGAMER26}/count.svg)
 ![Snake animation](https://github.com/EGAMER26/EGAMER26/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
 
