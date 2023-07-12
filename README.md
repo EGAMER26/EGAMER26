@@ -34,7 +34,8 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    
+
+   <img align="right" src="loading.gif" alt="anime" width="100%" height="10px">
    
 ![snake gif](https://github.com/EGAMER26/EGAMER26/blob/output/github-contribution-grid-snake.svg)
 ![Visitor Count](https://profile-counter.glitch.me/{EGAMER26}/count.svg)
