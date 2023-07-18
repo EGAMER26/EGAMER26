@@ -60,7 +60,7 @@
       </div>
 
 
-![snake gif](https://github.com/EGAMER26/EGAMER26/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/EGAMER26/EGAMER26/blob/output/github-contribution-grid-snake.svg) -->
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/EGAMER26/count.svg" /></p>
 
 
