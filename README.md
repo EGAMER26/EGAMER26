@@ -12,7 +12,7 @@
               <br>
             <li>👨‍💻 Some of my projects are available at <a href="https://p-inky.vercel.app/">My Portfólio</a></li>
               <br> 
-           <li>💬 Ask me about Javascript, React, CSS, PHP</li>
+           <li>💬 Ask me about Javascript, Typescript, React, CSS, HTML</li>
               <br> 
            <li>📫 How to reach me evandrogomes542@gmail.com</li>
         </ul>
@@ -28,10 +28,10 @@
   <h1>⚡ MY TECHNOLOGIES ⚡</h1>
   <p>
     <img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="30" width="40" alt="c-icon" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
     <img height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </p>
 
 
